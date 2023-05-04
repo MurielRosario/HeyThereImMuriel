@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @MurielRosario
 - 👀 I’m interested in Data Analysis
-- 🌱 I’m currently learning SQL, Excel, Tableau and Python
+- 🌱 I’m currently learning SQL, Excel and Tableau
 - 💞️ I’m looking to collaborate on Data Analysis Projects
-- 📫 How to reach me murielrosario@gmail.com
+- 📫 How to reach me https://www.linkedin.com/in/murielrosario/
 
 <!---
 MurielRosario/MurielRosario is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
